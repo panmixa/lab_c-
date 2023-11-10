@@ -1,0 +1,8 @@
+D:\visual\first\bin\Debug\first.exe.config
+D:\visual\first\bin\Debug\first.exe
+D:\visual\first\bin\Debug\first.pdb
+D:\visual\first\obj\Debug\first.csproj.AssemblyReference.cache
+D:\visual\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+D:\visual\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+D:\visual\first\obj\Debug\first.exe
+D:\visual\first\obj\Debug\first.pdb
